@@ -14,6 +14,9 @@ NN構成と同じ、HalfKP-256x2-32-32となっています。
 Kristallweizen-wcsc29-avx2.exe  
 Kristallweizen-wcsc29-sse42.exe  
   
+この実行バイナリを利用する際には、評価関数ファイル名をnn.binからbeer.binに  
+変更してご利用ください。（ささやかなネタですｗ）  
+  
 ～avx2.exeのほうで動かなかったら、～sse42.exeのほうで試してみてください。  
   
 その他  
