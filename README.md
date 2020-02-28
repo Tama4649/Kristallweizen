@@ -80,4 +80,14 @@ Kristallweizen_kaiV0.4.zip
 作成方法については来年の選手権のこともありますし、現在は非公開でww  
   
   
+2020.02.28  
+Kristallweizenの実行バイナリリリース  
+  
+Kristallweizen-avx2.exe  
+Kristallweizen-sse42.exe  
+  
+やねうら王V4.89リリースに伴い、Kristallweizenの実行バイナリを更新したものをリリースします。  
+今後、やねうら王のコミットに合わせ、このバイナリも同一ファイル名で更新していきます。  
+  
+  
 以上  
